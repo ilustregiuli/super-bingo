@@ -1,0 +1,18 @@
+table {
+    border: 1px solid;
+    margin: 30px;
+}
+
+tr {
+    color: rgb(30, 158, 118);
+}
+
+td {
+    border: 1px solid;
+    text-align: center;   
+}
+
+.blue {
+    background-color: #00F;
+    color: #FFF;
+}
