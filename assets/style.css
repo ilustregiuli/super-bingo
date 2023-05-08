@@ -12,7 +12,7 @@ td {
     text-align: center;   
 }
 
-.blue {
-    background-color: #00F;
+.green {
+    background-color: rgb(40, 211, 69);
     color: #FFF;
 }
